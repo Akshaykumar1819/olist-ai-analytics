@@ -1,0 +1,6 @@
+data/raw/
+data/processed/
+*.db
+.env
+__pycache__/
+.ipynb_checkpoints/

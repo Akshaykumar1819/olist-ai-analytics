@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+plotly
+streamlit
+sqlalchemy
+jupyter
+notebook
+python-dotenv
+reportlab
+scikit-learn
